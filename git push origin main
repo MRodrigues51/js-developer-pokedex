@@ -1,0 +1,23 @@
+[33mcommit c1f6cb368cc86470a18fd3b768c34d66a5b0576c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Marcelo Rodrigues <marcelorodriguesweb@gmail.com>
+Date:   Thu Aug 31 22:54:32 2023 -0300
+
+    iniciando estrutura de modal, com detalhes do pokemon
+
+[33mcommit 627a1ca6aebeb81b88429225fe0a5754e6a58a33[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Renan JP <renanjohannsen@gmail.com>
+Date:   Sun Aug 14 18:53:07 2022 -0300
+
+    Create README.md
+
+[33mcommit 95318034483480b3ad61ef226673093fbb3f6185[m
+Author: renanjpaula <renanjohannsen@gmail.com>
+Date:   Sun Aug 14 18:51:24 2022 -0300
+
+    Adição do projeto finalizado
+
+[33mcommit 89c7c06be5dd30ce41a1c33643177c564184beb9[m
+Author: renanjpaula <renanjohannsen@gmail.com>
+Date:   Sun Aug 14 18:43:23 2022 -0300
+
+    adição do projeto base
